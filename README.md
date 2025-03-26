@@ -1,4 +1,4 @@
-# Pokeom: Evolved
+# Pokemon: Evolved
 
 ## Introduction
 Pokémon: Evolved is a hack of Leaf Green V1.1 where all of the original Gen I pokemon now evolve at least two more times expanding the Pokedex from the original 151 to 354. All new evolutions have custom front and back sprites, pokedex entries, and shiny variants. 
