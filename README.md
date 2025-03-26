@@ -31,3 +31,4 @@ Stats, movesets, and even evo levels have been completely reworked to make for a
 + jordanos: https://bsky.app/profile/jordanosart.bsky.social
 + xiapher: https://bsky.app/profile/xiapher.bsky.social
 + atsign: https://x.com/atsign8877
++ verytiredkat: https://bsky.app/profile/verytiredkat.bsky.social
