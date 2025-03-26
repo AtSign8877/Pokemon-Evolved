@@ -1,4 +1,4 @@
-# Pokemon: Evolved
+# Pokémon: Evolved
 
 ## Introduction
 Pokémon: Evolved is a hack of Leaf Green V1.1 where all of the original Gen I pokemon now evolve at least two more times expanding the Pokedex from the original 151 to 354. All new evolutions have custom front and back sprites, pokedex entries, and shiny variants. 
@@ -21,9 +21,9 @@ Stats, movesets, and even evo levels have been completely reworked to make for a
 + Do not go back to the SS Anne after leaving (plz)
 
 ## How to Install
-1. Acquire a copy of Pokemon Leafgreen V1.1 (USA)
+1. Acquire a copy of Pokémon Leafgreen V1.1 (USA)
 2. Download evolutions.ips from this github repo
-3. Use a tool like Lunar IPS to apply ips file to copy of Pokemon Leafgreen V1.1 (USA)
+3. Use a tool like Lunar IPS to apply ips file to copy of Pokémon Leafgreen V1.1 (USA)
 
 ## Credits
 + calicorn: https://calicorn.tumblr.com/
