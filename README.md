@@ -25,3 +25,9 @@ Stats, movesets, and even evo levels have been completely reworked to make for a
 2. Download evolutions.ips from this github repo
 3. Use a tool like Lunar IPS to apply ips file to copy of Pokemon Leafgreen V1.1 (USA)
 
+## Credits
++ calicorn: https://calicorn.tumblr.com/
++ katten: https://bsky.app/profile/kattenkg.bsky.social
++ jordanos: https://bsky.app/profile/jordanosart.bsky.social
++ xiapher: https://bsky.app/profile/xiapher.bsky.social
++ atsign: https://x.com/atsign8877
